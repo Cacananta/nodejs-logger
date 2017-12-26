@@ -64,3 +64,6 @@ node-superagent/2.3.0,2017-10-02T22:26:59.028Z,GET,/,HTTP/1.1,200
 node-superagent/2.3.0,2017-10-02T22:26:59.028Z,GET,/,HTTP/1.1,200
 node-superagent/2.3.0,2017-10-02T22:26:59.028Z,GET,/logs,HTTP/1.1,200
 node-superagent/2.3.0,2017-10-02T22:26:59.028Z,GET,/logs,HTTP/1.1,200
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36,2017-10-09T15:26:44.060Z,GET,/,HTTP/1.1,200
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36,2017-10-09T15:26:44.060Z,GET,/favicon.ico,HTTP/1.1,200
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36,2017-10-09T15:26:44.060Z,GET,/logs,HTTP/1.1,200
